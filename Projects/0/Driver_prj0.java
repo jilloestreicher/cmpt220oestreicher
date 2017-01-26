@@ -20,7 +20,7 @@
 
   * Driver_prj0
 
-  *This class prints "Hello World!" to screen
+  *This class prints "Hello World!" to the screen
   
 */
 public class Driver_prj0 {
