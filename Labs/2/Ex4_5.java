@@ -43,8 +43,7 @@ public class Ex4_5 {
     area = ((sides * Math.pow(length,2)) / (4 * Math.tan(Math.PI / sides)));
     
     System.out.println("The area of the polygon is " + area);
-    
-    
+      
   }
 }
 
