@@ -1,0 +1,25 @@
+10 pts
+
+Jill,
+
+About your programs...
+
+Functionality
+
+- All programs function correctly as required.
+
+
+Style Check
+
+- Please do not leave empty blank lines in block comments!
+
+
+About your essay:
+
+- Good writing and analysis.
+
+
+
+Peace,
+
+- Dr. Rivas
