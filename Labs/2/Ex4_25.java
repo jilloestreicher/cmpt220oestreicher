@@ -1,27 +1,16 @@
 /**
-
   * Ex4_25.java
-  
   * Jill Oestreicher
-  
   * CMPT 220
-  
   * Lab 2
-  
   * February 23, 2017
-  
   * 1.8
-  
   * This file contains problem 4.25 of Lab 2
-  
 */
 
 /**
-
   * Ex4_25
-  
   * Generates a license plate number
-
 */
 
 public class Ex4_25 {
