@@ -1,27 +1,16 @@
 /**
-  
   * Ex3_4.java
-  
   * Jill Oestreicher
-  
   * CMPT 220
-  
   * Lab 2
-  
   * February 9, 2017
-  
   * 1.8
-  
   * This file contains problem 3.4 of Lab 2
-  
 */
 
 /**
-
   * Ex3_4
-  
   * This class assigns a randomly generated integer to a month
-
 */
 
 public class Ex3_4 {
