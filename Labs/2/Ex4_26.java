@@ -1,29 +1,18 @@
 /**
-
   * Ex4_26.java
-  
   * Jill Oestreicher
-  
   * CMPT 220
-  
   * Lab 2
-  
   * February 23, 2017
-  
   * 1.8
-  
-  * This file contains problem 4.26 of Lab 2
-  
+  * This file contains problem 4.26 of Lab 2 
 */
 
 import java.util.Scanner;
 
 /**
-
   * Ex4_26
-  
   * Prompts user to enter an amount of money and outputs amount in maximum change
-  
 */
 
 public class Ex4_26 {
