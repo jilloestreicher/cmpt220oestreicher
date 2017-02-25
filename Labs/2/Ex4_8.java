@@ -1,29 +1,18 @@
 /**
-  
   * Ex4_8.java
-  
   * Jill Oestreicher
-  
   * CMPT 220
-  
   * Lab 2
-  
   * February 23, 2017
-  
   * 1.8
-  
   * This file contains problem 4.8 of Lab 2
-  
 */
 
 import java.util.Scanner;
 
 /**
-
   * Ex4_8
-  
   * Receives an ASCII code and displays its character
-  
 */
 
 public class Ex4_8 {
