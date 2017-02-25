@@ -1,29 +1,18 @@
 /**
-  
   * TotalGrade.java
-  
   * Jill Oestreicher 
-  
   * CMPT 220
-  
   * Lab 2
-  
   * February 9, 2017
-  
   * 1.8
-  
   * This file contains the Total Grade problem of Lab 2
-  
 */
 
 import java.util.Scanner;
 
 /**
-
   * TotalGrade
-  
-  * Computes student's letter grade in this class 
-
+  * Computes student's letter grade in this class
 */
 
 public class TotalGrade {
