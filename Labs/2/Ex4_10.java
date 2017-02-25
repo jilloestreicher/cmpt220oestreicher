@@ -1,29 +1,18 @@
 /**
-
   * Ex4_10.java
-  
   * Jill Oestreicher
-  
   * CMPT 220
-  
   * Lab 2
-  
   * February 23, 2017
-  
   * 1.8
-  
   * This file contains problem 4.10 of Lab 2
-  
 */
 
 import java.util.Scanner;
 
 /**
-
   * Ex4_10
-  
   * Prompts user for Y or N in regards to if birthday is in set and guesses day
-  
 */
 
 public class Ex4_10 {
