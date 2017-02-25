@@ -1,29 +1,18 @@
 /**
-  
   * Ex3_15.java
-  
   * Jill Oestreicher
-  
   * CMPT 220
-  
   * Lab 2
-  
   * February 9, 2017
-  
   * 1.8
-  
   * This file contains problem 3.15 of Lab 2
-  
 */
 
 import java.util.Scanner;
 
 /**
-
   * Ex3_15
-  
-  * This program prompts user to enter three digit number and alerts them if they win
-  
+  * This program prompts user to enter three digit number and alerts them if they win 
 */
 
 public class Ex3_15 {
