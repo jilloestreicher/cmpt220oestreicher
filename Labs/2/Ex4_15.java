@@ -1,29 +1,18 @@
 /**
-
   * Ex4_15.java
-  
   * Jill Oestreicher
-  
   * CMPT 220
-  
   * Lab 2
-  
   * February 23, 2017
-  
   * 1.8
-  
   * This file contains problem 4.15 of Lab 2
-  
 */
 
 import java.util.Scanner;
 
 /**
-
   * Ex4_15
-  
   * Prompts user to enter letter and displays corresponding number
-  
 */
 
 public class Ex4_15 {
