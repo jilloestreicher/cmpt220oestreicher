@@ -1,34 +1,23 @@
 /**
-  
   * Ex3_11.java
-  
   * Jill Oestreicher
-  
   * CMPT 220
-  
   * Lab 2
-  
   * February 9, 2017
-  
   * 1.8
-  
   * This file contains problem 3.11 of Lab 2
-  
 */
 
 import java.util.Scanner;
 
 /**
-
   * Ex3_11
-  
   * This class finds the number of days in a month using a switch statement
-
 */
 
 public class Ex3_11 {
   public static void main(String args[]) {
-    
+  
     //scanner class for inputs, variables declared
     Scanner s = new Scanner(System.in);
     int month, year, days; 
