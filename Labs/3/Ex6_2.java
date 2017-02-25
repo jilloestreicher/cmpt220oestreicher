@@ -44,6 +44,5 @@ public class Ex6_2 {
       
       //return integer answer
       return sum;
-      
     }
 }
