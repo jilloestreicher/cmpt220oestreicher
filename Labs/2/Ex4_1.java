@@ -1,29 +1,18 @@
 /**
-  
   * Ex4_1.java
-  
   * Jill Oestreicher
-  
   * CMPT 220
-  
   * Lab 2
-  
   * February 9, 2017
-  
   * 1.8
-  
   * This file contains problem 4.1 of Lab 2
-  
 */
 
 import java.util.Scanner;
 
 /**
-  
   * Ex4_1
-  
   * This program computes the area of a pentagon
-  
 */
 
 public class Ex4_1 {
