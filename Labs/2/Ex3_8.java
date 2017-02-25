@@ -1,29 +1,18 @@
 /**
-  
   * Ex3_8.java
-  
   * Jill Oestreicher
-  
   * CMPT 220
-  
   * Lab 2
-  
   * February 9, 2017
-  
   * 1.8
-  
   * This file contains problem 3.8 of Lab 2
-  
 */
 
 import java.util.Scanner;
 
 /**
-
   * Ex3_8
-  
   * This class sorts three integers in non-decreasing order
-
 */
 
 public class Ex3_8 {
