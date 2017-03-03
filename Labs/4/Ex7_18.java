@@ -3,7 +3,7 @@
   * Jill Oestreicher
   * CMPT 220
   * Lab 4
-  * March 1, 2017
+  * March 2, 2017
   * 1.8
   * This file contains problem 7.18 of Lab 4
 */
@@ -28,7 +28,7 @@ public class Ex7_18 {
     } 
     bubbleSort(array); //call bubbleSort method
     
-    //for loop to print out numbers from 
+    //for loop to print out numbers from array 
     for(int j = 0; j < 10; j++){
       System.out.println(array[j]);
     }
