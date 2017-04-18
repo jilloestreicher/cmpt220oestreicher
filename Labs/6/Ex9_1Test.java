@@ -1,5 +1,5 @@
 /**
-  * Rectangle.java
+  * Ex9_1Test.java
   * Jill Oestreicher
   * CMPT 220
   * Lab 6
