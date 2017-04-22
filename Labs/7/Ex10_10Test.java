@@ -25,7 +25,7 @@ public class Ex10_10Test {
     //while loop to check queue is not empty
     while (!q.empty()) {
       //print queue
-			System.out.print(q.dequeue() + " ");
+		  System.out.print(q.dequeue() + " ");
 		}
 		System.out.println();
   }
