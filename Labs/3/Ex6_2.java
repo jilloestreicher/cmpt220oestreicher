@@ -42,7 +42,7 @@ public class Ex6_2 {
         sum += (n % 10); //extracts digits
       } while((n = n / 10) != 0); //removes extracted digit and checks if digits left
       
-      //return integer answer
+      //return integer answer 
       return sum;
     }
 }

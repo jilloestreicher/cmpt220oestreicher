@@ -36,8 +36,7 @@ public class Ex6_3 {
       * reverse
       * reverses integer entered using do while loop
     */
-    
-    public static int reverse(int number) {
+   public static int reverse(int number) {
       
       //reverse variable 
       int reverseNum = 0;
@@ -55,10 +54,9 @@ public class Ex6_3 {
       
     }
     /**
-      * isPalindrome
+      * isPalindrome 
       * determines if it is a palindrome using if loop
     */
-    
     public static boolean isPalindrome(int number) {
       
       //if loop calls reverse method and if yes returns true
