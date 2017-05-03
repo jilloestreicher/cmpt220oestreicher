@@ -40,7 +40,7 @@ public class Ex7_31 {
     //for loop to print out numbers from array 
     for(int j = 0; j < list3.length; j++){
       System.out.print(list3[j] + " ");
-    }
+    }x
   }
   /**
     * merge
@@ -51,16 +51,16 @@ public class Ex7_31 {
     
     //for loop to put list1 items in list3  
     for(int i = 0; i < list1.length; i++)
-			list3[i] = list1[i];
+      list3[i] = list1[i];
     
     //for loop to add list2 items to list3
-		for(int i = 0, j = list1.length; i < list2.length; i++, j++) {
-			list3[j] = list2[i];	
-		}
+    for(int i = 0, j = list1.length; i < list2.length; i++, j++) {
+      list3[j] = list2[i];  
+    }
 
-		selectionSort(list3); //invoke selection sort method on list3
+    selectionSort(list3); //invoke selection sort method on list3
 
-		return list3; //return sorted list3
+    return list3; //return sorted list3
   }
   /**
     * selectionSort
